@@ -3,10 +3,7 @@
 - 👋 Hi, I’m Vlad
 - 👀 I’m interested in ... 🤔🤔
 - 🌱 I’m currently learning Python
-- 📫 How to reach me:
-
-e-mail:
--        latysvlad7@yandex.ru
+- 📫 How to reach me: check bio
 
 <!---
 latysvlad/latysvlad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
