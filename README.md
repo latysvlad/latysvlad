@@ -1,7 +1,7 @@
 ### Hi there 😀
 
 - 👋 Hi, I’m Vlad
-- 👀 I’m interested in ... 🤔🤔
+- 👀 I’m interested in... finding job
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: check bio
 
