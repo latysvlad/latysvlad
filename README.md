@@ -5,7 +5,7 @@
 - 👀 I’m interested in... finding job
 - ✉️ You can contact me at [latysvlad7@yandex.ru](mailto:latysvlad7@yandex.ru)
 - 🌱 I’m currently learning Python
-- (completed courses:
+- ✍️ Completed courses:
    - Основы разработки на C++: белый пояс;
    - "Поколение Python": курс для начинающих)
 
