@@ -6,6 +6,7 @@
 - ✉️ You can contact me at [latysvlad7@yandex.ru](mailto:latysvlad7@yandex.ru)
 - 🌱 I’m currently learning Python
 - ✍️ Completed courses:
+- 
    - Основы разработки на C++: белый пояс;
    - "Поколение Python": курс для начинающих)
 
